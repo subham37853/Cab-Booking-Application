@@ -23,7 +23,7 @@ public interface IPassengerRepo {
     void updatePassenger(Passenger oldPassenger, Passenger updatedPassenger);
 
     /**
-     * Update {@link Passenger} {@link Location} details
+     * Update {@link Passenger} {@link com.cabbookingapplication.models.Location} details
      *
      * @param name
      * @param email

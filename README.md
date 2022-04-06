@@ -23,6 +23,7 @@
 ### Information for the Viewer
 1. This is scalable with minimal changes to the code. 
 2. The functions are written in such a manner that it is **Unit Testable** as well.
+3. I have used email as the primary key for User (both passenger and driver). So instead of putting name in the all the features i have used email.
 
 
 ## Here are the response of the important APIs.
